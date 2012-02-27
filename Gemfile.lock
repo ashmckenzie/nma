@@ -1,0 +1,22 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    coderay (1.0.5)
+    method_source (0.7.0)
+    pry (0.9.8.2)
+      coderay (~> 1.0.5)
+      method_source (~> 0.7)
+      slop (< 3, >= 2.4.4)
+    ruby-notify-my-android (0.4.1)
+      xml-simple (>= 1.0.15)
+    slop (2.4.4)
+    trollop (1.16.2)
+    xml-simple (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pry
+  ruby-notify-my-android
+  trollop
